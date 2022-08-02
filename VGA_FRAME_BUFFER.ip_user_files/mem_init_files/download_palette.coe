@@ -1,0 +1,2 @@
+memory_initialization_radix=16;
+memory_initialization_vector=FFE EED EDC FCA ECB ECA EC9 EB7 DDD CCB BBA AAA 998 788 455 113;
